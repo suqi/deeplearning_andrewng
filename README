@@ -1,0 +1,5 @@
+# How to download Coursera notebook files
+- new a terminal
+- Compress: tar -zcvf file.tar.gz ***
+- Then use notebook file browser to download it
+- Extract: tar -zxvf  directory.tar  
